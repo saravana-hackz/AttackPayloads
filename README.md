@@ -1,4 +1,4 @@
-# AttackPayloads
+# AttackPayloads (Quick Reference)
 
 * [Xss Paylaod Github Link](https://github.com/payloadbox/xss-payload-list)
   
